@@ -14,14 +14,14 @@ const Nav = () => {
             <img src={logo} alt="logo"/>
             </a>
             {/*mobile navbar */}
-            <div className="menu-icon">
+            <div className="menu-icon" onClick={toggleMenu}>
                 <div className="bar"></div>
                 <div className="bar"></div>
                 <div className="bar"></div>
             </div>
 
             {/* nav items */}
-            <ul>
+            <ul className={`nav-links ${menuOpen ? "visible" : ""}`}>
                 <li>
                     <a href="/">Home</a>
                 </li>
@@ -60,3 +60,4 @@ const Nav = () => {
 export default Nav;
 
 
+// video kohta 7:33
