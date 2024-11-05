@@ -1,5 +1,5 @@
 import React from "react";
-import small_logo from "../images/Logo.svg"
+import small_logo from "../images/logowhite.png"
 
 
 const Footer = () => {
@@ -11,7 +11,7 @@ const Footer = () => {
                     <p>We are a family owned Mediterraneran restaurant, focused on traditional recipes servred with a modern twist.</p>                   
                 </div>
                 <div>
-                    <h3>Important Links</h3>
+                    <h3>SITEMAP</h3>
                 <ul>
                     <li><a href="/">Home</a></li>
                     <li><a href="/">About</a></li>
@@ -22,15 +22,15 @@ const Footer = () => {
                 </ul>
                 </div>
                 <div>
-                    <h3>Contact</h3>
+                    <h3>CONTACT</h3>
                 <ul>
-                    <li>Address: <br/> 123 Town Street, Chicago</li>
-                    <li>Phone: <br/>+ 11 12345678</li>
-                    <li>E-mail: <br/>littlelemon@littlelemon.com</li>
+                    <li>Address: <br/><i>123 Town Street, Chicago</i> </li>
+                    <li>Phone: <br/><i>+ 11 12345678</i></li>
+                    <li>E-mail: <br/><i>littlelemon@littlelemon.com</i></li>
                 </ul>
                 </div>
                 <div>
-                    <h3>Social Media</h3>
+                    <h3>OUR SOCIALMEDIA</h3>
                 <ul>
                     <li><a href="/">Facebook</a></li>
                     <li><a href="/">Instagram</a></li>
