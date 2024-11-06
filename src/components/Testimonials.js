@@ -7,32 +7,28 @@ import TestimonialCard from './TestimonialCards';
 
 const customers = [
   {
-    fullName: 'Maria Sanchez',
+    fullName: 'Mark von Hertzen',
     image: customer1Image,
     rating: [1, 1, 1, 1, 0.5],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    says: `My favorite place! Food and service are top-notch!`,
   },
   {
-    fullName: 'Antony Clifton',
+    fullName: 'Meryl McBannon',
     image: customer2Image,
     rating: [1, 1, 1, 1, 1],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    says: `Delicious ingredients and awesome staff who were helpful.`,
   },
   {
-    fullName: 'Tamika Jackson',
+    fullName: 'Jerry Springsteen',
     image: customer3Image,
     rating: [1, 1, 1, 1, 0.5],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    says: `Great food and atmosphere!`,
   },
   {
-    fullName: 'Brandon Ming',
+    fullName: 'Dolores McDonald',
     image: customer4Image,
     rating: [1, 1, 1, 1],
-    says: `Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    says: `Food was so good delicious!`,
   },
 ];
 
