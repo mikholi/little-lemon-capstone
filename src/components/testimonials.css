@@ -1,6 +1,6 @@
 .testimonials {
   padding-top: 1.875rem;
-  padding-bottom: 1.875rem;
+  padding-bottom: 3rem;
   background-color: #495E57; 
 }
 
@@ -9,8 +9,9 @@
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: auto auto;
   gap: 1.25rem;
-  max-width: 1200px;
+  max-width: 900px;
   margin: 0 auto;
+
 }
 
 .testimonials h2 {
