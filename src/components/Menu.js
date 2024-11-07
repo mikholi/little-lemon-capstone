@@ -25,7 +25,7 @@ const handleOrder = (id) => {
       }).then((result) => {
         if (result.isConfirmed) {
           swalWithBootstrapButtons.fire(
-            'Orderd!',
+            'Ordered!',
             'Your order has been confirmed.',
             'success'
           )

@@ -10,14 +10,17 @@
 
 .our-story-description h1 {
     color: #F4CE14;
+    margin-left: 20px;
 }
 
 .our-story-description h2 {
     color: #495e57;
+    margin-left: 20px;
 }
 
 .our-story-description p {
     padding-top: 1.5rem;
+    margin-left: 20px;
 }
 
 .our-story-chefs {
@@ -31,6 +34,7 @@
     border-radius: 1rem;
     width: 300px;
     margin-top: 35px;
+    margin-left: 120px;
 }
 
 @media (max-width: 915px) {

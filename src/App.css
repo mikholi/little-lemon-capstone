@@ -252,12 +252,15 @@ input, label {
   align-items: center;
   flex-wrap: wrap;
   gap: 2rem 1rem;
+  align-items: stretch;
 }
 
 .menu-items {
   width: 350px;
   background: #a9c8be;
   border-radius: 8px;
+  flex: 1;
+  
 }
 
 .menu-container img {
